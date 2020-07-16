@@ -1,0 +1,29 @@
+# Eclipse Files #
+target
+.settings
+.project
+*.classpath
+*.class
+*.factorypath
+test-output
+logs
+
+# Log File
+*.log
+
+# IDE Files #
+*.iml
+.idea
+.idea/
+.project
+.settings
+target
+.DS_Store
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
